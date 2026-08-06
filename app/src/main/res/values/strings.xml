@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_message">Welcome to the App!</string>
+    <string name="menu_instruction">Use the menu to see the list.</string>
+    <string name="action_show_list">Show List</string>
+    <string name="list_title">Item List</string>
+</resources>
