@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.appbar.MaterialToolbar;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        androidx.appcompat.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+        MaterialToolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
     }
 
