@@ -35,12 +35,16 @@ public class ListActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         List<ItemModel> items = new ArrayList<>();
-        items.add(new ItemModel("Makkah", ""));
-        items.add(new ItemModel("Tokyo", ""));
-        items.add(new ItemModel("Beijing", ""));
-        items.add(new ItemModel("Istanbul", ""));
-        items.add(new ItemModel("Kuala Lumpur", ""));
-        items.add(new ItemModel("Zurich", ""));
+        items.add(new ItemModel("Harley-Davidson", ""));
+        items.add(new ItemModel("Ducati", ""));
+        items.add(new ItemModel("BMW Motorrad", ""));
+        items.add(new ItemModel("Yamaha", ""));
+        items.add(new ItemModel("Kawasaki", ""));
+        items.add(new ItemModel("Honda", ""));
+        items.add(new ItemModel("Suzuki", ""));
+        items.add(new ItemModel("Triumph", ""));
+        items.add(new ItemModel("KTM", ""));
+        items.add(new ItemModel("Aprilia", ""));
 
         MyAdapter adapter = new MyAdapter(items);
         recyclerView.setAdapter(adapter);

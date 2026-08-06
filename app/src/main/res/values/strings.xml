@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Cities</string>
+    <string name="app_name">Bike Brands</string>
     <string name="welcome_message"></string>
-    <string name="menu_instruction">Open the menu and choose Cities.</string>
-    <string name="action_show_list">Cities</string>
-    <string name="list_title">Six Cities</string>
+    <string name="menu_instruction">Open the menu and choose Bike Brands.</string>
+    <string name="action_show_list">Bike Brands</string>
+    <string name="list_title">Famous Bike Brands</string>
 </resources>
