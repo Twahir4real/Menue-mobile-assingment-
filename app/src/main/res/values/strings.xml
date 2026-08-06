@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="welcome_message">Welcome to our Restaurant!</string>
-    <string name="menu_instruction">Tap the menu button at the top to browse our food.</string>
-    <string name="action_show_list">View Food Menu</string>
-    <string name="list_title">Our Delicious Menu</string>
+    <string name="app_name">Cities</string>
+    <string name="welcome_message"></string>
+    <string name="menu_instruction">Open the menu and choose Cities.</string>
+    <string name="action_show_list">Cities</string>
+    <string name="list_title">Six Cities</string>
 </resources>

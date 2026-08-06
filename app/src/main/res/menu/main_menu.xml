@@ -4,5 +4,5 @@
     <item
         android:id="@+id/action_show_list"
         android:title="@string/action_show_list"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="never" />
 </menu>
